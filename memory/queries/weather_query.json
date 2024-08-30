@@ -1,0 +1,23 @@
+{
+  "timestamp": ISODate(
+  "2024-07-16T10:00:00Z"),
+  "humidity": 57,
+  "location": {
+    "city": "Saint-Petersburg",
+    "coordinates": {
+      "lat": 59.9311,
+      "lon": 30.3609
+    }
+  },
+  "temperature": {
+    "current": 20,
+    "high": 25,
+    "low": 18
+  },
+  "pressure": 30,
+  "wind": {
+    "speed": 10,
+    "direction": "NW"
+  },
+  "condition": "Cloudy, with little precipitation"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "name": "Mary Gonzales",
+  "sex": "female",
+  "birthday": "2000.3.11",
+  "hobbies": [
+    "puzzle solving",
+    "bird watching"
+  ],
+  "unique_quality": "A natural leader",
+  "education": {
+    "School": "Unknown",
+    "University": "University of Toronto",
+    "Faculty": "Rotman school of management"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Ontario",
+  "personal_traits": {
+    "MBTI": "ENTP",
+    "description": "This individual's personality profile suggests a complex interplay of introverted independence and a deep desire for meaningful connections. The presence of qualities like logic, innovation, and structure indicates a highly analytical mind that values organization and planning. However, the tendency to establish many friendships and seek active friends who share interests reveals a strong need for social interaction and validation. This dichotomy may indicate an underlying fear of being alone or a deep-seated insecurity, driving the individual's pursuit of multiple relationships. The preference for independent and reserved romantic partners suggests a desire for intellectual stimulation and emotional intimacy without the need for intense emotional attachment. Overall, this person appears to be highly intelligent, adaptable, and sociable, yet may struggle with feelings of loneliness and disconnection despite their extensive social network. Their ability to navigate complex structures and innovate suggests a resourceful and resilient nature, but also hints at potential difficulties in maintaining long-term relationships due to an aversion to emotional vulnerability."
+  }
+}

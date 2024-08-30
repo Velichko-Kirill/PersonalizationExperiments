@@ -1,0 +1,24 @@
+{
+  "id": 29,
+  "name": "Mark Thompson",
+  "birthday": "13.07.1972",
+  "hobbies": [
+    "sport cars",
+    "ski"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Vancouver Technical School",
+    "University": "University of British Columbia",
+    "Faculty": "Environmental Science"
+  },
+  "career": {
+    "Company": "AECOM",
+    "position": "senior consultant"
+  },
+  "residence": "Canada, Vancouver, Robson Street, 88",
+  "personal_traits": {
+    "MBTI": "ISFP",
+    "description": "This individual presents a paradoxical combination of openness to experiences and social connections, yet struggles with intimacy and commitment. Their large circle of acquaintances suggests a need for validation and social proof, but the small number of close friends implies difficulty forming deep emotional bonds. The independence in relationships may indicate an avoidance of vulnerability or a fear of being engulfed by others. Modesty and low impulsiveness suggest a self-awareness that often serves as a defense mechanism against the demands of their social world. Their adaptability allows them to navigate various social situations with ease, but also underscores a tendency to people-please and avoid confrontation. Overall, this person's psychological profile reveals a desire for connection without sacrifice of autonomy, underscoring a deep-seated ambivalence towards intimacy and commitment. This dynamic likely stems from an unresolved childhood fear of abandonment or rejection, leading them to prioritize their own emotional safety over genuine connection with others. The openness to experiences may serve as a compensatory mechanism to fill the void left by this unresolved trauma."
+  }
+}

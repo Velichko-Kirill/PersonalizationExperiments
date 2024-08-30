@@ -1,0 +1,24 @@
+{
+  "name": "Tanner York",
+  "age": 24,
+  "sex": "Male",
+  "occupation": "Culinary Arts",
+  "Year": "Sophomore",
+  "GPA": 3.94,
+  "hobbies": [
+    "cooking",
+    "weightlifting"
+  ],
+  "Country": "USA",
+  "residence": "Illinois",
+  "unique_quality": "Classical music connoisseur",
+  "id": 5,
+  "birthday": "2000.2.10",
+  "personal_traits": {
+    "agreeableness": 50.0,
+    "openness": 85.0,
+    "conscientiousness": 50.0,
+    "extraversion": 85.0,
+    "neuroticism": 50.0
+  }
+}

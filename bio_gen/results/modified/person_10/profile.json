@@ -1,0 +1,24 @@
+{
+  "name": "Amy Olson",
+  "age": 23,
+  "sex": "Female",
+  "occupation": "Neuroscience",
+  "Year": "Sophomore",
+  "GPA": 2.26,
+  "hobbies": [
+    "archery",
+    "foraging"
+  ],
+  "Country": "Canada",
+  "residence": "Saskatchewan",
+  "unique_quality": "Stop motion animator",
+  "id": 10,
+  "birthday": "2001.4.6",
+  "personal_traits": {
+    "agreeableness": 39.0,
+    "openness": 89.0,
+    "conscientiousness": 1.0,
+    "extraversion": 22.0,
+    "neuroticism": 61.0
+  }
+}

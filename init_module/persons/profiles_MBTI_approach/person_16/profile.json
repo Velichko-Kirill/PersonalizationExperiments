@@ -1,0 +1,24 @@
+{
+  "id": 16,
+  "name": "John Doe",
+  "sex": "male",
+  "birthday": "10.01.1975",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Public School 202",
+    "University": "Columbia University",
+    "Faculty": "Economics"
+  },
+  "career": {
+    "Company": "Goldman Sachs",
+    "position": "senior manager"
+  },
+  "residence": "USA, New York, 5th Avenue, 125",
+  "personal_traits": {
+    "MBTI": "INTJ",
+    "description": "This individual's psyche is characterized by a delicate balance between intellectual and emotional aspects. Their possession of foresight and strategic thinking suggests a calculated approach to life, where rationality often takes precedence over impulsivity. The small group of close friends indicates a preference for intimacy within a narrow social circle, possibly stemming from an innate need for security and control. Independence is another prominent trait, implying a strong desire for autonomy and self-sufficiency. The presence of logic in their qualities further solidifies the notion that they value reason over emotional or intuitive decision-making. However, the fact that they're not in a hurry to start a family suggests an underlying conflict between commitment and personal freedom, pointing towards unresolved attachment issues. Their willingness to change partners indicates a lack of long-term emotional investment, possibly indicating difficulties in forming deep connections. Overall, this individual's behavior is shaped by a struggle for independence while craving intimacy, reflecting a fundamental ambivalence towards love and relationships. This complex dynamic may be indicative of unprocessed childhood trauma or unresolved conflicts with authority figures."
+  }
+}

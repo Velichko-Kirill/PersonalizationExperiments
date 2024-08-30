@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "name": "Barbara Wilson",
+  "birthday": "28.12.1974",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Lyc\u00e9e Henri-IV",
+    "University": "Sorbonne University",
+    "Faculty": "History"
+  },
+  "career": {
+    "Company": "Louvre Museum",
+    "position": "head curator"
+  },
+  "residence": "France, Paris, Rue de Rivoli, 78",
+  "personal_traits": {
+    "MBTI": "INFP",
+    "description": "This individual's psychology is marked by a strong sense of autonomy and independence, as evidenced by their \"love of freedom\" quality and the fact that they have a small, close-knit group of friends. This suggests a need for control and self-expression, which may manifest in a tendency to be selective about relationships and investments. Their focused approach to romantic relationships, particularly on building a family, indicates a desire for stability and long-term commitment. Additionally, their \"motivation\" and \"dedication\" qualities suggest a strong work ethic and capacity for perseverance. However, the absence of broader social connections (indicated by a small friend group) may imply some difficulty with forming or maintaining relationships outside of their core circle. A possible underlying dynamic is an ambivalence towards commitment versus autonomy, which may be reconciled through carefully curated, high-stakes relationships. This individual's psychology may also suggest an inclination toward goal-directed behavior and a drive for self-improvement, tempered by a pragmatic appreciation for stability and security."
+  }
+}

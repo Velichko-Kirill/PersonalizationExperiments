@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "name": "Nancy Brown",
+  "sex": "female",
+  "birthday": "2001.2.10",
+  "hobbies": [
+    "dancing",
+    "bouldering"
+  ],
+  "unique_quality": "Graphic design guru",
+  "education": {
+    "School": "61 Albert City Truesdale Elementary School",
+    "University": "Iowa College of Liberal Arts and Sciences",
+    "Faculty": "Graphic design"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Iowa",
+  "personal_traits": {
+    "MBTI": "ENFP",
+    "description": "This individual's propensity for establishing a large network of friendships across diverse backgrounds suggests a deep-seated desire for connection, community, and acceptance. Their emotional nature, as indicated by \"emotionality\" and \"dreaminess\", likely makes them highly attuned to the emotions of those around them, rendering them empathetic and compassionate listeners. The ability to form relationships with people from various walks of life points to a high level of sociability and adaptability, hinting at a flexible and open-minded personality. Their romantic partners will need someone who can navigate their emotional currents and flow with them, implying a need for stability and grounding in their love lives. This individual's originality and curiosity might also lead them to explore unconventional paths in relationships, adding an air of unpredictability to their romantic pursuits. Overall, this person appears to be an emotionally expressive and highly social being with a strong need for connection and understanding."
+  }
+}

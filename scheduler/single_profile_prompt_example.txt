@@ -1,0 +1,43 @@
+You need to generate a person's schedule, which is a text file that contains 7 lines like this one:
+	r2t1p9t1s2
+	Which, when parsed, is equal to:
+	8:00 - 10:00 Recreation
+	10:00 - 11:00 Transit
+	11:00 - 20:00 Professional
+	20:00 - 21:00 Transit
+	21:00 - 23:00 Social
+
+It's very important to mention, that there can only be 4 possible activities:
+p - Professional
+r - Recreation
+s - Social
+t - Transit
+
+Create a profile for a person with given biography and psychological profile, that are provided below: 
+{
+  "name": "Kaitlin Soto",
+  "age": 23,
+  "sex": "Female",
+  "occupation": "Chemical Engineering",
+  "Year": "Sophomore",
+  "GPA": 2.68,
+  "hobbies": [
+    "pottery",
+    "scrapbooking"
+  ],
+  "Country": "Canada",
+  "residence": "Quebec",
+  "unique_quality": "Underwater explorer",
+  "id": 27,
+  "birthday": "2001.4.2",
+  "personal_traits": {
+    "agreeableness": 93.0,
+    "openness": 30.0,
+    "conscientiousness": 40.0,
+    "extraversion": 12.0,
+    "neuroticism": 67.0
+  }
+}
+The profile should contain 7 unparsed lines, and please explain your reasoning behind EACH one, for each also provide a day of the week. 
+In your explanation dont just retell the schedule, focus on the explaining the reasoning and specific planned activities. Take into account, that you cant have more than 16 hours in one unparsed line of schedule and that most people dont work on Sundays or Saturdays (but some do).
+Also, absolutely all the output lines of your answer that dont contain the schedule should start with a symbol #.

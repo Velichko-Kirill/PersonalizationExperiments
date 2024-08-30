@@ -1,0 +1,16 @@
+# Profile 1: The Workaholic
+# Biography: Alex is a dedicated professional working in the tech industry. He often works long hours, balancing his job with minimal leisure activities. He commutes to work and prefers to unwind with recreational activities late at night.
+# 
+# Emotional Characteristics: Highly driven, stressed, focused, and determined.
+# 
+# Profile Schedule:
+t1p7t1p5t1r1
+p6t1p5t1r3
+t1p6t1p5t1r2
+p5t1p8t1r1
+t1p6t1p5t1r2
+p5t1p8t1r1
+t1p6t1p5t1r2
+# 
+# Reasoning:
+# t1p7t1p5t1r1: The day starts with a short transit (1 hour), followed by 10 hours of professional work, another short transit (1 hour), 8 more hours of professional work, another hour of transit, and ends with 3 hours of recreation. This pattern reflects Alex’s long work hours and minimal but consistent recreational time late at night.

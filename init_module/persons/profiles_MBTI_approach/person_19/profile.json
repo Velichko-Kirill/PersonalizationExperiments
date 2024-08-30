@@ -1,0 +1,24 @@
+{
+  "id": 19,
+  "name": "Patricia Williams",
+  "sex": "female",
+  "birthday": "22.03.1973",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Sydney Girls High School",
+    "University": "University of Sydney",
+    "Faculty": "Psychology"
+  },
+  "career": {
+    "Company": "Royal North Shore Hospital",
+    "position": "head of department"
+  },
+  "residence": "Australia, Sydney, George Street, 58",
+  "personal_traits": {
+    "MBTI": "ISFJ",
+    "description": "This individual's behavior reveals a complex dynamic, where a seemingly contradictory set of traits converge to form a distinctive psychological profile. On one hand, they possess resourcefulness and attentiveness, suggesting an ability to navigate complex social situations with ease. Their large circle of acquaintances indicates a capacity for social engagement and adaptability. However, the fact that they have a small number of close friends suggests a preference for intimacy over sheer quantity of relationships. The hesitation to initiate romantic relationships or change partners implies a tendency towards commitment and loyalty once a connection is formed, yet also a fear of vulnerability. This ambivalence may stem from an underlying insecurity, which they attempt to compensate for by appearing confident and certain in social situations. Overall, this person's behavior is characterized by a desire for connection and intimacy, tempered by a need for control and stability. Their social interactions are likely marked by a delicate balance between openness and reserve, as they navigate the complexities of human relationships with a mix of charm and guardedness. Ultimately, their psychology can be seen as a manifestation of a deep-seated struggle between the desire for closeness and the fear of emotional exposure."
+  }
+}

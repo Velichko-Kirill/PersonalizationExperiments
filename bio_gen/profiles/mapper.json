@@ -1,0 +1,9 @@
+{
+  "State/Province": "residence",
+  "Name": "name",
+  "Major": "occupation",
+  "Unique Quality": "unique_quality",
+  "Age": "age",
+  "Sex": "sex",
+  "Hobbies": "hobbies"
+}

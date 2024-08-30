@@ -1,0 +1,24 @@
+{
+  "name": "David Hughes",
+  "age": 19,
+  "sex": "Male",
+  "occupation": "Communication",
+  "Year": "Senior",
+  "GPA": 3.2,
+  "hobbies": [
+    "baking",
+    "podcasting"
+  ],
+  "Country": "Canada",
+  "residence": "Nova Scotia",
+  "unique_quality": "Global traveler",
+  "id": 42,
+  "birthday": "2005.1.7",
+  "personal_traits": {
+    "agreeableness": 22.0,
+    "openness": 57.0,
+    "conscientiousness": 24.0,
+    "extraversion": 3.0,
+    "neuroticism": 91.0
+  }
+}

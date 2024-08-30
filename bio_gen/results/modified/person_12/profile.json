@@ -1,0 +1,24 @@
+{
+  "name": "Donna Stone",
+  "age": 18,
+  "sex": "Female",
+  "occupation": "Dentistry",
+  "Year": "Sophomore",
+  "GPA": 3.07,
+  "hobbies": [
+    "horseback riding",
+    "programming"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Sports enthusiast",
+  "id": 12,
+  "birthday": "2006.2.17",
+  "personal_traits": {
+    "agreeableness": 46.0,
+    "openness": 27.0,
+    "conscientiousness": 31.0,
+    "extraversion": 10.0,
+    "neuroticism": 84.0
+  }
+}

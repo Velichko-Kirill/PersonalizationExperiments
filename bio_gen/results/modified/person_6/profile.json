@@ -1,0 +1,24 @@
+{
+  "name": "Maria Jones",
+  "age": 19,
+  "sex": "Female",
+  "occupation": "Political Science",
+  "Year": "Freshman",
+  "GPA": 2.79,
+  "hobbies": [
+    "horseback riding",
+    "cycling"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Craft beer enthusiast",
+  "id": 6,
+  "birthday": "2005.3.14",
+  "personal_traits": {
+    "agreeableness": 79.0,
+    "openness": 84.0,
+    "conscientiousness": 86.0,
+    "extraversion": 53.0,
+    "neuroticism": 1.0
+  }
+}

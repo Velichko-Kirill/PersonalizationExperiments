@@ -1,0 +1,24 @@
+{
+  "name": "John Howell",
+  "age": 18,
+  "sex": "Male",
+  "occupation": "Music",
+  "Year": "Senior",
+  "GPA": 3.32,
+  "hobbies": [
+    "weightlifting",
+    "music"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Robotics expert",
+  "id": 32,
+  "birthday": "2006.6.17",
+  "personal_traits": {
+    "agreeableness": 9.0,
+    "openness": 59.0,
+    "conscientiousness": 5.0,
+    "extraversion": 72.0,
+    "neuroticism": 7.0
+  }
+}

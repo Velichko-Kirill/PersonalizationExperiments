@@ -1,0 +1,25 @@
+{
+  "id": 5,
+  "name": "Tanner York",
+  "sex": "male",
+  "birthday": "2000.2.10",
+  "hobbies": [
+    "cooking",
+    "weightlifting"
+  ],
+  "unique_quality": "Classical music connoisseur",
+  "education": {
+    "School": "Unknown",
+    "University": "School of the Art Institute of Chicago",
+    "Faculty": "Graphic"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Illinois",
+  "personal_traits": {
+    "MBTI": "ESFJ",
+    "description": "This individual's psyche is characterized by a strong need for social connection and belonging, as evidenced by their numerous friendships across various backgrounds. Their diligence and empathetic nature allow them to nurture these relationships, further solidifying their sense of community. The presence of a reliable romantic relationship suggests a desire for long-term stability and partnership. Notably, the emphasis on creating a family indicates an innate drive towards nurturing and responsibility. This combination implies a need for security, emotional support, and a harmonious environment, which is fulfilled through both personal relationships and professional endeavors. Overall, this person's psychological profile appears to prioritize interpersonal connections, comfort, and stability. Their striving for harmony may indicate a tendency to avoid conflict or tension in favor of maintaining peace and balance. This drive for sociability and reliability could also manifest in their professional pursuits, where they might seek roles that involve collaboration and community engagement."
+  }
+}

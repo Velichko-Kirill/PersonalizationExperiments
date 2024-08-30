@@ -1,0 +1,24 @@
+{
+  "name": "Timothy Wilson PhD",
+  "age": 23,
+  "sex": "Male",
+  "occupation": "Business Administration",
+  "Year": "Senior",
+  "GPA": 2.37,
+  "hobbies": [
+    "snowboarding",
+    "ice skating"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Virtuoso musician",
+  "id": 1,
+  "birthday": "2001.2.3",
+  "personal_traits": {
+    "agreeableness": 50.0,
+    "openness": 85.0,
+    "conscientiousness": 50.0,
+    "extraversion": 85.0,
+    "neuroticism": 50.0
+  }
+}

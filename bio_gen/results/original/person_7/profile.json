@@ -1,0 +1,17 @@
+{
+  "name": "Jessica Blankenship",
+  "age": 23,
+  "sex": "Female",
+  "occupation": "Music",
+  "Year": "Freshman",
+  "GPA": 2.18,
+  "Hobbies": [
+    "skateboarding",
+    "woodworking"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Creative writer",
+  "id": 7,
+  "birthday": "2001.2.10"
+}

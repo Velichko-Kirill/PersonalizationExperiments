@@ -1,0 +1,24 @@
+{
+  "id": 17,
+  "name": "Mary Johnson",
+  "sex": "female",
+  "birthday": "15.08.1978",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "St. Paul's Girls' School",
+    "University": "Oxford University",
+    "Faculty": "Literature"
+  },
+  "career": {
+    "Company": "Freelance",
+    "position": "novelist"
+  },
+  "residence": "UK, London, Baker Street, 221B",
+  "personal_traits": {
+    "MBTI": "INFJ",
+    "description": "This individual possesses a unique blend of idealistic and sensitive qualities, which informs their approach to interpersonal relationships. The presence of a small, tight-knit group of close friends suggests a preference for intimate, meaningful connections over a broader social network. Their focus on long-term romantic relationships indicates a desire for commitment and stability in these partnerships. Restraint is also a notable trait, implying a capacity for self-regulation and emotional control. Dreaminess, another characteristic, may suggest a creative or imaginative aspect to their personality. Devotion is also present, underscoring a strong sense of loyalty and dedication. This combination of traits suggests someone who values depth over breadth in relationships, and prioritizes authenticity and commitment above all else. Their idealistic nature likely drives a desire for meaning and purpose in these connections, which may sometimes lead to an emphasis on the \"big picture\" at the expense of nuanced details. Overall, this person is likely to be empathetic, intuitive, and deeply invested in their relationships."
+  }
+}

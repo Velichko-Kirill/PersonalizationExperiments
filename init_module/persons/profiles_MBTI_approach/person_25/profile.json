@@ -1,0 +1,25 @@
+{
+  "id": 25,
+  "name": "William Garcia",
+  "sex": "male",
+  "birthday": "02.10.1977",
+  "hobbies": [
+    "history of 20th century",
+    "historical reconstruction"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Colegio San Ignacio",
+    "University": "Complutense University of Madrid",
+    "Faculty": "Business Administration"
+  },
+  "career": {
+    "Company": "Deloitte",
+    "position": "partner"
+  },
+  "residence": "Spain, Madrid, Gran Via, 45",
+  "personal_traits": {
+    "MBTI": "ENTJ",
+    "description": "This individual exhibits a driven and goal-oriented personality, valuing purposefulness and ambition in their pursuits. Their relationships are carefully curated, with a small but tight-knit group of close friends who likely share similar values and ambitions. The desire for a balanced partner suggests a need for stability and mutual support in romantic endeavors. Logic and straightforwardness guide their decision-making processes, perhaps at the expense of emotional complexity or intuition. Confidence is a hallmark of this person's self-image, which may serve as both a strength and a weakness in navigating interpersonal dynamics. Overall, they appear to be highly motivated, organized, and discerning individuals who prioritize quality over quantity in their social connections. This approach likely yields strong, if not shallow, relationships that provide a sense of security and predictability. However, the potential for deeper emotional intimacy may be sacrificed for the sake of control and stability. As such, this person's interpersonal style can be characterized as cautious yet purposeful."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 12,
+  "name": "Donna Stone",
+  "sex": "female",
+  "birthday": "2006.2.17",
+  "hobbies": [
+    "horseback riding",
+    "programming"
+  ],
+  "unique_quality": "Sports enthusiast",
+  "education": {
+    "School": "Unknown",
+    "University": "Unknown",
+    "Faculty": "Unknown"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Ontario",
+  "personal_traits": {
+    "MBTI": "ISFJ",
+    "description": "This individual exhibits a complex interplay of qualities that suggest an underlying need for validation and social connection. The presence of friendliness and certainty indicates a desire to be liked and appreciated by others, while resourcefulness and attentiveness imply a capacity for emotional intelligence and empathy. However, the large circle of acquaintances but small number of close friends suggests a possible difficulty in forming deep, intimate relationships. The reluctance to initiate romantic relationships or change partners may indicate an underlying fear of rejection or abandonment, leading to a preference for maintaining stability and predictability in relationships. Overall, this person's psychology appears to be driven by a desire for social connection and validation, tempered by a need for control and security. Their emotional landscape is likely characterized by a mix of warmth, anxiety, and a tendency towards people-pleasing. As such, they may struggle with intimacy and deep emotional connections, instead opting for more superficial relationships that provide a sense of comfort and familiarity. This dynamic would be expected to influence their social interactions, leading them to prioritize maintaining relationships over pursuing new ones or taking risks in personal growth."
+  }
+}

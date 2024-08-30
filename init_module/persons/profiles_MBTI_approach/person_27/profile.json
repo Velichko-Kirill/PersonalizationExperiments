@@ -1,0 +1,25 @@
+{
+  "id": 27,
+  "name": "Susan Lewis",
+  "sex": "female",
+  "birthday": "25.11.1973",
+  "hobbies": [
+    "antique history",
+    "archeology"
+  ],
+  "unique_quality": "Photorealistic memory",
+  "education": {
+    "School": "Liceo Classico Torquato Tasso",
+    "University": "Sapienza University of Rome",
+    "Faculty": "Art History"
+  },
+  "career": {
+    "Company": "Vatican Museums",
+    "position": "senior curator"
+  },
+  "residence": "Italy, Rome, Via Veneto, 56",
+  "personal_traits": {
+    "MBTI": "ENFP",
+    "description": "This individual appears to be an intensely emotional and empathetic person, highly attuned to the feelings and energies around them. Their dreaminess suggests a rich inner life, marked by vivid imagination and potentially deep psychological insights. As someone who values sociability and curiosity, they likely have a strong desire for connection and learning, often drawn to experiences that stimulate their mind and emotions. The large group of friends from diverse backgrounds indicates a tolerance for ambiguity and a willingness to engage with others on multiple levels. In romantic relationships, they prioritize emotional stability and flexibility, suggesting a need for mutual support and understanding. Their originality and adaptability imply a capacity for creative problem-solving and navigating complex situations. Overall, this person's psyche appears to be characterized by a dynamic interplay between introspection, social engagement, and emotional intelligence, often driving them to seek out novel experiences and connections that satisfy these multifaceted needs. As such, they may struggle with intense emotions and the need for emotional grounding in times of stress or uncertainty."
+  }
+}

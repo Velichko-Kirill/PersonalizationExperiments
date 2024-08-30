@@ -1,0 +1,169 @@
+timestamp,weekday,activity_type,taken_action
+2024-08-05 00:00:00,Monday,sleep,Sleeping
+2024-08-05 01:00:00,Monday,sleep,Sleeping
+2024-08-05 02:00:00,Monday,sleep,Sleeping
+2024-08-05 03:00:00,Monday,sleep,Sleeping
+2024-08-05 04:00:00,Monday,sleep,Sleeping
+2024-08-05 05:00:00,Monday,sleep,Sleeping
+2024-08-05 06:00:00,Monday,sleep,Sleeping
+2024-08-05 07:00:00,Monday,sleep,Sleeping
+2024-08-05 08:00:00,Monday,recreation,I'm going to spend the next hour reading a book.
+2024-08-05 09:00:00,Monday,transit,I plan to spend the next hour reading a book on my commute to work.
+2024-08-05 10:00:00,Monday,professional,"I plan to spend the next hour reviewing and editing articles for the upcoming edition of ""Vedomosti"" journal, where I work as an associate editor."
+2024-08-05 11:00:00,Monday,professional,"I plan to spend the next hour reviewing and editing articles for the upcoming edition of ""Vedomosti"" journal, where I work as an associate editor."
+2024-08-05 12:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-05 13:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-05 14:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-05 15:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-05 16:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-05 17:00:00,Monday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-05 18:00:00,Monday,transit,I'm going to spend the next hour reading a book and having a snack.
+2024-08-05 19:00:00,Monday,recreation,I'm going to spend the next hour reading a book.
+2024-08-05 20:00:00,Monday,sleep,Sleeping
+2024-08-05 21:00:00,Monday,sleep,Sleeping
+2024-08-05 22:00:00,Monday,sleep,Sleeping
+2024-08-05 23:00:00,Monday,sleep,Sleeping
+2024-08-06 00:00:00,Tuesday,sleep,Sleeping
+2024-08-06 01:00:00,Tuesday,sleep,Sleeping
+2024-08-06 02:00:00,Tuesday,sleep,Sleeping
+2024-08-06 03:00:00,Tuesday,sleep,Sleeping
+2024-08-06 04:00:00,Tuesday,sleep,Sleeping
+2024-08-06 05:00:00,Tuesday,sleep,Sleeping
+2024-08-06 06:00:00,Tuesday,sleep,Sleeping
+2024-08-06 07:00:00,Tuesday,sleep,Sleeping
+2024-08-06 08:00:00,Tuesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-06 09:00:00,Tuesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-06 10:00:00,Tuesday,transit,I plan to spend the next hour reading a book on my commute.
+2024-08-06 11:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 12:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-06 13:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 14:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 15:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 16:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 17:00:00,Tuesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-06 18:00:00,Tuesday,transit,I'm going to spend the next hour reading a book and having a snack.
+2024-08-06 19:00:00,Tuesday,social,I plan to spend the next hour chatting with my wife Anna on the phone.
+2024-08-06 20:00:00,Tuesday,social,I plan to spend the next hour chatting with my wife Anna on the phone.
+2024-08-06 21:00:00,Tuesday,social,I plan to spend the next hour chatting with my wife Anna on the phone.
+2024-08-06 22:00:00,Tuesday,social,I plan to spend the next hour chatting with my wife Anna on the phone.
+2024-08-06 23:00:00,Tuesday,sleep,Sleeping
+2024-08-07 00:00:00,Wednesday,sleep,Sleeping
+2024-08-07 01:00:00,Wednesday,sleep,Sleeping
+2024-08-07 02:00:00,Wednesday,sleep,Sleeping
+2024-08-07 03:00:00,Wednesday,sleep,Sleeping
+2024-08-07 04:00:00,Wednesday,sleep,Sleeping
+2024-08-07 05:00:00,Wednesday,sleep,Sleeping
+2024-08-07 06:00:00,Wednesday,sleep,Sleeping
+2024-08-07 07:00:00,Wednesday,sleep,Sleeping
+2024-08-07 08:00:00,Wednesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-07 09:00:00,Wednesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-07 10:00:00,Wednesday,transit,I plan to spend the next hour reading a book on my commute.
+2024-08-07 11:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-07 12:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 13:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 14:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 15:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 16:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 17:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 18:00:00,Wednesday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-07 19:00:00,Wednesday,transit,I'm going to spend the next hour reading a book and having a snack.
+2024-08-07 20:00:00,Wednesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-07 21:00:00,Wednesday,recreation,I'm going to spend the next hour reading a book.
+2024-08-07 22:00:00,Wednesday,sleep,Sleeping
+2024-08-07 23:00:00,Wednesday,sleep,Sleeping
+2024-08-08 00:00:00,Thursday,sleep,Sleeping
+2024-08-08 01:00:00,Thursday,sleep,Sleeping
+2024-08-08 02:00:00,Thursday,sleep,Sleeping
+2024-08-08 03:00:00,Thursday,sleep,Sleeping
+2024-08-08 04:00:00,Thursday,sleep,Sleeping
+2024-08-08 05:00:00,Thursday,sleep,Sleeping
+2024-08-08 06:00:00,Thursday,sleep,Sleeping
+2024-08-08 07:00:00,Thursday,sleep,Sleeping
+2024-08-08 08:00:00,Thursday,recreation,I'm going to spend the next hour reading a book.
+2024-08-08 09:00:00,Thursday,transit,I plan to spend the next hour reading a book on my commute.
+2024-08-08 10:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-08 11:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-08 12:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-08 13:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-08 14:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-08 15:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-08 16:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-08 17:00:00,Thursday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-08 18:00:00,Thursday,transit,I'm going to spend the next hour reading a book and having a snack.
+2024-08-08 19:00:00,Thursday,social,"I plan to spend the next hour chatting with my wife Anna on the phone, catching up on each other's day."
+2024-08-08 20:00:00,Thursday,social,I plan to spend the next hour chatting with my wife Anna on the phone.
+2024-08-08 21:00:00,Thursday,social,"I plan to spend the next hour chatting with my wife Anna on the phone, catching up on each other's day."
+2024-08-08 22:00:00,Thursday,recreation,I'm going to spend the next hour reading a book.
+2024-08-08 23:00:00,Thursday,recreation,I'm going to spend the next hour reading a book.
+2024-08-09 00:00:00,Friday,sleep,Sleeping
+2024-08-09 01:00:00,Friday,sleep,Sleeping
+2024-08-09 02:00:00,Friday,sleep,Sleeping
+2024-08-09 03:00:00,Friday,sleep,Sleeping
+2024-08-09 04:00:00,Friday,sleep,Sleeping
+2024-08-09 05:00:00,Friday,sleep,Sleeping
+2024-08-09 06:00:00,Friday,sleep,Sleeping
+2024-08-09 07:00:00,Friday,sleep,Sleeping
+2024-08-09 08:00:00,Friday,recreation,I'm going to spend the next hour reading a book.
+2024-08-09 09:00:00,Friday,recreation,I'm going to spend the next hour reading a book.
+2024-08-09 10:00:00,Friday,transit,"I'm going to spend the next hour catching up on some work-related tasks, likely responding to emails and making some phone calls."
+2024-08-09 11:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-09 12:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in Russian politics."
+2024-08-09 13:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 14:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 15:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 16:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 17:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 18:00:00,Friday,professional,"I plan to work on an article for ""Vedomosti"" journal, focusing on a current event in the Russian media landscape."
+2024-08-09 19:00:00,Friday,transit,I'm planning to spend the next hour reading a book and having a snack.
+2024-08-09 20:00:00,Friday,social,I'm going to spend the next hour chatting with my wife Anna and playing with my 4-year-old son Maxim at home.
+2024-08-09 21:00:00,Friday,social,I'm going to spend the next hour chatting with my wife Anna and playing with my 4-year-old son Maxim at home.
+2024-08-09 22:00:00,Friday,sleep,Sleeping
+2024-08-09 23:00:00,Friday,sleep,Sleeping
+2024-08-10 00:00:00,Saturday,sleep,Sleeping
+2024-08-10 01:00:00,Saturday,sleep,Sleeping
+2024-08-10 02:00:00,Saturday,sleep,Sleeping
+2024-08-10 03:00:00,Saturday,sleep,Sleeping
+2024-08-10 04:00:00,Saturday,sleep,Sleeping
+2024-08-10 05:00:00,Saturday,sleep,Sleeping
+2024-08-10 06:00:00,Saturday,sleep,Sleeping
+2024-08-10 07:00:00,Saturday,sleep,Sleeping
+2024-08-10 08:00:00,Saturday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-10 09:00:00,Saturday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-10 10:00:00,Saturday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-10 11:00:00,Saturday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-10 12:00:00,Saturday,recreation,I'm going to spend the next hour reading a book.
+2024-08-10 13:00:00,Saturday,recreation,I'm going to spend the next hour reading a book in my living room.
+2024-08-10 14:00:00,Saturday,recreation,I'm going to spend the next hour reading a book in my living room.
+2024-08-10 15:00:00,Saturday,recreation,I'm going to spend the next hour reading a book in my living room.
+2024-08-10 16:00:00,Saturday,recreation,I'm going to spend the next hour reading a book in my living room.
+2024-08-10 17:00:00,Saturday,recreation,I'm going to spend the next hour reading a book.
+2024-08-10 18:00:00,Saturday,sleep,Sleeping
+2024-08-10 19:00:00,Saturday,sleep,Sleeping
+2024-08-10 20:00:00,Saturday,sleep,Sleeping
+2024-08-10 21:00:00,Saturday,sleep,Sleeping
+2024-08-10 22:00:00,Saturday,sleep,Sleeping
+2024-08-10 23:00:00,Saturday,sleep,Sleeping
+2024-08-11 00:00:00,Sunday,sleep,Sleeping
+2024-08-11 01:00:00,Sunday,sleep,Sleeping
+2024-08-11 02:00:00,Sunday,sleep,Sleeping
+2024-08-11 03:00:00,Sunday,sleep,Sleeping
+2024-08-11 04:00:00,Sunday,sleep,Sleeping
+2024-08-11 05:00:00,Sunday,sleep,Sleeping
+2024-08-11 06:00:00,Sunday,sleep,Sleeping
+2024-08-11 07:00:00,Sunday,sleep,Sleeping
+2024-08-11 08:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 09:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 10:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 11:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 12:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 13:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 14:00:00,Sunday,social,I plan to spend the next hour playing with my 4-year-old son Maxim at home.
+2024-08-11 15:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 16:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 17:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 18:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 19:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 20:00:00,Sunday,recreation,I'm going to spend the next hour reading a book.
+2024-08-11 21:00:00,Sunday,sleep,Sleeping
+2024-08-11 22:00:00,Sunday,sleep,Sleeping
+2024-08-11 23:00:00,Sunday,sleep,Sleeping

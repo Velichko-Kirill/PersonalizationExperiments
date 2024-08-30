@@ -1,0 +1,24 @@
+{
+  "name": "Kaitlin Soto",
+  "age": 23,
+  "sex": "Female",
+  "occupation": "Chemical Engineering",
+  "Year": "Sophomore",
+  "GPA": 2.68,
+  "hobbies": [
+    "pottery",
+    "scrapbooking"
+  ],
+  "Country": "Canada",
+  "residence": "Quebec",
+  "unique_quality": "Underwater explorer",
+  "id": 27,
+  "birthday": "2001.4.2",
+  "personal_traits": {
+    "agreeableness": 93.0,
+    "openness": 30.0,
+    "conscientiousness": 40.0,
+    "extraversion": 12.0,
+    "neuroticism": 67.0
+  }
+}

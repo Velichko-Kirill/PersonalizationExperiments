@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "name": "Donna Reyes",
+  "sex": "female",
+  "birthday": "2005.3.6",
+  "hobbies": [
+    "astronomy",
+    "geocaching"
+  ],
+  "unique_quality": "Kite flying enthusiast",
+  "education": {
+    "School": "Unknown",
+    "University": "University of Toronto",
+    "Faculty": "Applied science and engineering"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Ontario",
+  "personal_traits": {
+    "MBTI": "ENTJ",
+    "description": "This individual's psychology reveals a strong drive towards goal-oriented behavior, prioritizing achievement and success. Their logical and straightforward nature suggests a tendency to approach problems in a methodical and analytical manner. This purposefulness is likely linked to their ambition, indicating a strong desire for recognition and accomplishment. Their confidence in social settings suggests a comfort with self-expression and assertiveness, possibly compensating for an underlying need for validation. The close-knit group of friends indicates a preference for intimate relationships over broad social connections, suggesting a value on depth over breadth. Their seeking of a balanced partner implies a desire for emotional stability and mutual support, potentially stemming from an unconscious need for security. Overall, this individual's behavior is shaped by a drive towards personal success, tempered by a need for genuine connections and stability."
+  }
+}

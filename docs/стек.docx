@@ -1,0 +1,19 @@
+По библиотекам:
+
+- `langchain` (0.2.11 и выше + langraph + ollama + ragas) <b>(самое главное!)</b>
+- `pydantic `
+- `faiss`
+- `elasticsearch`
+
+
+по ML смотря какие модели захотите обучать, но я бы рекомендовал
+`llama-index` и в любом случае спрашивать `pytorch`, `transformers`, `pandas`, `scikit-learn`,
+`numpy`, `scipy`
+
+по скиллам:
+
+- async python3.9+
+- prompt engineering
+- llm: fine-tuning, peft, optimization
+- векторные бд, RAG
+- bash, docker, git

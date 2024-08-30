@@ -1,0 +1,25 @@
+{
+  "id": 21,
+  "name": "Linda Taylor",
+  "sex": "female",
+  "birthday": "05.09.1976",
+  "hobbies": [
+    "sketching",
+    "sex toys"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "San Francisco School of the Arts",
+    "University": "Stanford University",
+    "Faculty": "Engineering"
+  },
+  "career": {
+    "Company": "Bechtel",
+    "position": "project manager"
+  },
+  "residence": "USA, San Francisco, Lombard Street, 101",
+  "personal_traits": {
+    "MBTI": "ESTJ",
+    "description": "This individual's psychological profile reveals a strong sense of responsibility and reliability, as indicated by their emphasis on qualities such as dependability, initiative, logic, and determination. Their ability to maintain a stable group of friends suggests emotional maturity and the capacity for genuine connections. The preference for calm in romantic relationships points to a desire for stability and security. Furthermore, this person's focus on these traits implies an underlying need for control and predictability in their life. This drive may stem from a childhood environment that was unpredictable or unstable, leading them to develop coping mechanisms centered around logic and reliability. Their approach to relationships appears to be based on a rational assessment of potential partners' stability, suggesting a possible fear of emotional turmoil or abandonment. Overall, this person's psychological profile is characterized by a strong need for control, security, and emotional maturity, which guides their relationships and daily life choices. They are likely to prioritize practicality over spontaneity, valuing stability above excitement. Their tendency towards logic and determination also suggests a potentially analytical and solution-focused mindset."
+  }
+}

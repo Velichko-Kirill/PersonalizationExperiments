@@ -1,0 +1,25 @@
+{
+  "id": 26,
+  "name": "Christopher Martinez",
+  "sex": "male",
+  "birthday": "14.04.1969",
+  "hobbies": [
+    "drawing",
+    "poems"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Colegio Americano",
+    "University": "National Autonomous University of Mexico",
+    "Faculty": "Architecture"
+  },
+  "career": {
+    "Company": "OMA",
+    "position": "principal architect"
+  },
+  "residence": "Mexico, Mexico City, Paseo de la Reforma, 101",
+  "personal_traits": {
+    "MBTI": "ESFJ",
+    "description": "This individual's sociability suggests a strong need for social connection and validation. Their large network of diverse friends indicates an ability to adapt and form connections with people from various walks of life. The emphasis on harmony and comfort in their relationships implies a desire for stability and predictability, which may manifest as a preference for long-term commitments rather than fleeting experiences. Their diligence and caring nature likely make them attractive partners, but may also lead to an overemphasis on responsibilities within romantic relationships. The focus on creating a family suggests a strong sense of duty and potentially a traditional view of marriage. Their empathetic tendencies indicate a capacity for emotional intelligence, which could be both an asset and a liability in navigating complex social dynamics. Overall, this person appears to value stability, connection, and security above all else, often at the expense of personal freedoms or excitement."
+  }
+}

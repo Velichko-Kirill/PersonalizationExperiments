@@ -1,0 +1,45 @@
+# Profile for Jessica Blankenship
+# Name: Jessica Blankenship
+# Age: 23
+# Sex: Female
+# Occupation: Music (Freshman)
+# GPA: 2.18
+# Hobbies: Skateboarding, Woodworking
+# Country: Canada
+# Residence: Ontario
+# Unique Quality: Creative Writer
+# ID: 7
+# Birthday: 2001.5.13
+# Personal Traits: 
+#   Agreeableness: 85.0
+#   Openness: 95.0
+#   Conscientiousness: 15.0
+#   Extraversion: 50.0
+#   Neuroticism: 15.0
+# Monday
+r2t1p8t1s2
+# Reasoning: Jessica starts her week with some Recreation time, perhaps skateboarding or woodworking (8:00 - 10:00). She then has a short Transit period to get to her classes (10:00 - 11:00). Given her occupation in music, she spends a significant portion of the day in Professional activities (11:00 - 19:00). Another Transit period follows (19:00 - 20:00) before she ends her day with Social activities, maybe meeting friends or engaging in a creative writing session (20:00 - 22:00).
+
+# Tuesday
+p6t1r3t1s3
+# Reasoning: Tuesday begins with a focus on her Professional commitments (8:00 - 14:00). After a brief Transit period (14:00 - 15:00), she has some Recreation time, possibly working on a woodworking project (15:00 - 18:00). Another short Transit follows (18:00 - 19:00), and she ends with Social activities, perhaps a study group or a social gathering (19:00 - 22:00).
+
+# Wednesday
+r3t1p7t1s3
+# Reasoning: Midweek starts with Recreation (8:00 - 11:00), giving her time to engage in her hobbies. After a short Transit (11:00 - 12:00), she focuses on her Professional activities (12:00 - 19:00). Another Transit period (19:00 - 20:00) leads to Social time, perhaps participating in a music club or socializing with peers (20:00 - 23:00).
+
+# Thursday
+p8t1r2t1s2
+# Reasoning: Thursday is heavily focused on Professional activities (8:00 - 16:00), reflecting her commitment to her studies and music practice. She then has a short Transit period (16:00 - 17:00) followed by Recreation time (17:00 - 19:00). Another Transit (19:00 - 20:00) leads to Social activities, possibly a creative writing group or a social event (20:00 - 22:00).
+
+# Friday
+p6t1r2t1s4
+# Reasoning: The end of the workweek starts with Professional commitments (8:00 - 14:00). After a brief Transit (14:00 - 15:00), she enjoys some Recreation time (15:00 - 17:00). Another Transit (17:00 - 18:00) is followed by extended Social activities, such as attending a music event or hanging out with friends (18:00 - 22:00).
+
+# Saturday
+r4t1s4
+# Reasoning: Saturday is more relaxed, starting with Recreation (8:00 - 12:00), allowing her to fully engage in her hobbies. A short Transit period (12:00 - 13:00) is followed by Social activities for the rest of the day, like attending social gatherings or spending time with friends (13:00 - 17:00).
+
+# Sunday
+s3r4s3
+# Reasoning: Sunday is a balanced day of Social and Recreation activities. She starts with Social time (8:00 - 11:00), perhaps brunch with friends. Then she enjoys Recreation (11:00 - 15:00), followed by more Social activities to end the day (15:00 - 18:00), reflecting a typical weekend of relaxation and socializing.

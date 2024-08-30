@@ -1,0 +1,24 @@
+{
+  "id": 30,
+  "name": "Daniel White",
+  "birthday": "03.03.1970",
+  "hobbies": [
+    "chess",
+    "lego"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Manchester Grammar School",
+    "University": "University of Manchester",
+    "Faculty": "Mathematics"
+  },
+  "career": {
+    "Company": "BBC",
+    "position": "head of data analytics"
+  },
+  "residence": "UK, Manchester, Oxford Road, 120",
+  "personal_traits": {
+    "MBTI": "ESTP",
+    "description": "This individual's psychological profile reveals a unique blend of introversion and self-sufficiency. Their emphasis on individuality and independence suggests a preference for solo activities and a strong sense of self-reliance, potentially bordering on aloofness. The presence of calmness and observation as qualities may indicate a thoughtful and reflective nature, but also one that is not overly enthusiastic or spontaneous. A small group of close friends indicates a tendency towards selectivity in relationships, with a focus on depth over breadth. Avoidance of serious romantic relationships may suggest an emotional vulnerability that they are hesitant to expose, or a fear of commitment stemming from past experiences. This person's resourcefulness likely serves as a coping mechanism for navigating complex social situations and maintaining their independence. Overall, this individual appears to be someone who values autonomy, introspection, and emotional protection in their interactions with others."
+  }
+}

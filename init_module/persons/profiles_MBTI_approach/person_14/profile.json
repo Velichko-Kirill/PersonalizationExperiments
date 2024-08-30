@@ -1,0 +1,25 @@
+{
+  "id": 14,
+  "name": "Sandra Gonzalez",
+  "sex": "female",
+  "birthday": "2004.1.7",
+  "hobbies": [
+    "metal detecting",
+    "martial arts"
+  ],
+  "unique_quality": "Theatre and drama artist",
+  "education": {
+    "School": "Unknown",
+    "University": "Unknown",
+    "Faculty": "Unknown"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Saskatchewan",
+  "personal_traits": {
+    "MBTI": "ISTJ",
+    "description": "This individual's strong sense of purposefulness and reliability suggests a need for control and structure in their life. Their stable group of friends implies a capacity for commitment and loyalty, possibly stemming from an upbringing that valued long-term relationships. The emphasis on attentiveness indicates a high level of emotional intelligence and empathetic nature. In romantic relationships, this person values partnership, indicating a desire for mutual support and interdependence. A drive to establish strong connections with others is balanced by a desire for stability and commitment. It is likely that they have experienced some sense of security or comfort in close relationships during their upbringing, contributing to these tendencies. Overall, this individual's relational style is characterized by a strong work ethic, dedication to partnerships, and a deep-seated need for emotional connection and support. Their personality is shaped by an underlying motivation to build lasting connections with others, which serves as a protective mechanism against feelings of isolation or uncertainty. This person's values are deeply rooted in their relationships, guiding their decisions and actions in pursuit of stability, security, and mutual understanding."
+  }
+}

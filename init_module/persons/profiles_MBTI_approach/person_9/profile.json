@@ -1,0 +1,25 @@
+{
+  "id": 9,
+  "name": "Bryan Watson",
+  "sex": "male",
+  "birthday": "2000.4.16",
+  "hobbies": [
+    "volunteering",
+    "LARPing"
+  ],
+  "unique_quality": "Artistically gifted",
+  "education": {
+    "School": "Unknown",
+    "University": "Unknown",
+    "Faculty": "Unknown"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Georgia",
+  "personal_traits": {
+    "MBTI": "INFP",
+    "description": "This individual appears to be a high-achiever driven by a strong motivation and sense of purpose. Their diligent nature allows them to focus intently on their goals, while also possessing the insight to navigate complex situations with ease. Confidence is a defining characteristic, as they are unapologetically themselves and have no qualms about expressing their opinions. This self-assurance stems from a deep dedication to personal growth and self-improvement, which in turn fuels their love of freedom and desire for autonomy. Their close-knit circle of friends suggests a preference for meaningful relationships over superficial ones, further emphasizing their commitment to authenticity. The focus on building a family through romantic relationships indicates a strong desire for stability and security, likely stemming from a deep-seated need for emotional support and connection. Overall, this person's behavior is driven by a complex interplay of confidence, dedication, and love of freedom. Their relationships are built on mutual respect and trust, while also valuing independence and personal growth."
+  }
+}

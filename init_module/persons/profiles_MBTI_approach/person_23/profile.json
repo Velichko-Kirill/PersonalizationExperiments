@@ -1,0 +1,23 @@
+{
+  "id": 23,
+  "name": "Laura Green",
+  "birthday": "07.04.1979",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Auckland Grammar School",
+    "University": "University of Auckland",
+    "Faculty": "Education"
+  },
+  "career": {
+    "Company": "Auckland Grammar School",
+    "position": "senior teacher"
+  },
+  "residence": "New Zealand, Auckland, Queen Street, 32",
+  "personal_traits": {
+    "MBTI": "ISTJ",
+    "description": "This individual's profile suggests a structured and dependable personality, likely stemming from their purposeful nature. Their strong and stable friendships indicate a capacity for intimacy and loyalty, suggesting they value commitment in relationships. The prioritization of partnership in romantic relationships further reinforces this notion, implying a desire for stability and security. Their attentiveness may also contribute to their ability to form deep connections with others. This combination of traits points towards an individual who values long-term commitments and is driven by a sense of responsibility. They are likely dependable partners, both in personal and professional contexts. A tendency to prioritize harmony over conflict might lead them to avoid confrontation or difficult conversations. Overall, this profile suggests someone who approaches life with a sense of purpose and dedication. Their relationships are built on trust and mutual support, reflecting a strong desire for stability and security."
+  }
+}

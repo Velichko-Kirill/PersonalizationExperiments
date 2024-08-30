@@ -1,0 +1,7 @@
+.env
+
+LLAMA_API_KEY = "YourAPIKey"
+
+CUDA_VISIBLE_DEVICES = "0"
+
+DEBUG = true

@@ -1,0 +1,15 @@
+You just awaked in your home.
+
+###
+
+You just arrived at your work.
+
+###
+
+You just returned home after your work.
+
+###
+
+You're planning your vacancies
+
+###

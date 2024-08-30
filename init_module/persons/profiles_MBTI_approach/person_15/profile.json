@@ -1,0 +1,25 @@
+{
+  "id": 15,
+  "name": "Joseph Banks",
+  "sex": "male",
+  "birthday": "2004.3.14",
+  "hobbies": [
+    "scrapbooking",
+    "gardening"
+  ],
+  "unique_quality": "Urban sketching artist",
+  "education": {
+    "School": "Unknown",
+    "University": "Unknown",
+    "Faculty": "Unknown"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "British Columbia",
+  "personal_traits": {
+    "MBTI": "ISTP",
+    "description": "This individual exhibits a unique blend of assertive and introverted tendencies. Their qualities suggest a driven and self-reliant personality, but the fact that they have a very small group of close friends implies a need for intimacy and emotional connection within carefully curated relationships. The calm nature of their romantic relationships further reinforces this notion, as they prioritize shared interests over intense emotional experiences. This suggests a desire for stability and predictability in personal connections, possibly stemming from a deep-seated fear of abandonment or rejection. Their practicality and adaptability also indicate an ability to navigate complex social situations with ease, but one that is tempered by a strong sense of self-preservation. Overall, this individual's psyche appears to be governed by a desire for control and security in their personal relationships. Their independence and organization suggest a need to compartmentalize and prioritize aspects of their life, possibly as a coping mechanism for underlying anxiety or emotional turmoil. This intricate balancing act between assertiveness and introversion creates an air of quiet confidence, but one that is ultimately rooted in a deep-seated fear of vulnerability."
+  }
+}

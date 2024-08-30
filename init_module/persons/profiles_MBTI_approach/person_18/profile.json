@@ -1,0 +1,24 @@
+{
+  "id": 18,
+  "name": "James Smith",
+  "sex": "male",
+  "birthday": "30.06.1968",
+  "hobbies": [
+    "Unknown"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Toronto High School",
+    "University": "University of Toronto",
+    "Faculty": "Computer Science"
+  },
+  "career": {
+    "Company": "Google",
+    "position": "senior developer"
+  },
+  "residence": "Canada, Toronto, Queen Street, 42",
+  "personal_traits": {
+    "MBTI": "ENTP",
+    "description": "This individual values independence, suggesting a strong need for autonomy and self-reliance. Their ability to see through complexities (insight) implies a level of emotional maturity and cognitive sophistication. Sociability and logic further indicate that they are outgoing, yet methodical in their approach to relationships. The desire for friends who share interests suggests a preference for meaningful connections built on shared passions, rather than superficial acquaintances. In romantic relationships, the tendency to seek independent and reserved partners may be an attempt to avoid suffocating emotional intimacy, or perhaps a reflection of their own emotional unavailability. This blend of traits suggests a person who prioritizes intellectual stimulation and self-discovery over intense emotional experiences. Their need for structure in friendships and relationships implies a desire for control and predictability. Overall, this individual appears to be an introspective, analytical, and highly independent person who values depth and meaning in their connections with others."
+  }
+}

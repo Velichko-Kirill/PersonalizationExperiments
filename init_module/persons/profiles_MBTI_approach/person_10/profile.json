@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "name": "Amy Olson",
+  "sex": "female",
+  "birthday": "2001.4.6",
+  "hobbies": [
+    "archery",
+    "foraging"
+  ],
+  "unique_quality": "Stop motion animator",
+  "education": {
+    "School": "Unknown",
+    "University": "Unknown",
+    "Faculty": "Unknown"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Saskatchewan",
+  "personal_traits": {
+    "MBTI": "INTJ",
+    "description": "This individual's psyche is characterized by a calculated approach to life, with a strong emphasis on logic and foresight. Their independence suggests a need for autonomy, potentially stemming from an upbringing that emphasized self-reliance or a fear of being overly reliant on others. The small group of close friends indicates a preference for intimacy over superficial connections, possibly indicating a deeper trust and emotional investment in relationships. Strategic thinking implies a proactive approach to problem-solving and goal-achievement, with an eye towards long-term consequences. Their reluctance to start a family immediately suggests a desire to consolidate their own goals and sense of self before committing to the responsibilities that come with parenthood. However, their lack of urgency in changing partners may indicate a need for stability and comfort in relationships, rather than a desire for novelty or excitement. This tension between independence and interdependence could contribute to an inner conflict, driving them to balance their own desires with the needs of others. Overall, this person's behavior is shaped by a rational, goal-oriented approach to life, informed by a nuanced understanding of themselves and those around them."
+  }
+}

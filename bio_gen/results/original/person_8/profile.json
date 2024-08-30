@@ -1,0 +1,17 @@
+{
+  "name": "Jamie Taylor",
+  "age": 19,
+  "sex": "Female",
+  "occupation": "Computer Science",
+  "Year": "Junior",
+  "GPA": 2.72,
+  "Hobbies": [
+    "poetry",
+    "calligraphy"
+  ],
+  "Country": "USA",
+  "residence": "California",
+  "unique_quality": "Nature guide",
+  "id": 8,
+  "birthday": "2005.5.1"
+}

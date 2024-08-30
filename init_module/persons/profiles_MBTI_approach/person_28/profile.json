@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "name": "Joseph Moore",
+  "birthday": "30.05.1967",
+  "hobbies": [
+    "astronomy"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Melbourne Grammar School",
+    "University": "University of Melbourne",
+    "Faculty": "Physics"
+  },
+  "career": {
+    "Company": "CSIRO",
+    "position": "lead researcher"
+  },
+  "residence": "Australia, Melbourne, Collins Street, 75",
+  "personal_traits": {
+    "MBTI": "ISTP",
+    "description": "This individual possesses a set of qualities that suggest a high degree of self-reliance and introspection. Their independence, determination, and practicality imply a rational and pragmatic approach to life, perhaps at the expense of emotional depth or vulnerability. The small but close-knit group of friends may indicate a preference for quality over quantity in relationships, with a focus on shared interests and calm dynamics. This person's ability to maintain a sense of calm in their romantic relationships suggests an emotional regulation that prioritizes stability over intense passion. Their organization and adaptability also hint at a strong need for control and structure. It is likely that they have developed these traits as a coping mechanism, possibly stemming from a desire to avoid emotional overwhelm or chaos. Overall, this individual appears to be driven by a desire for order, stability, and security, which may sometimes manifest as aloofness or detachment. This approach to life allows them to maintain a sense of self-preservation while still engaging in meaningful relationships with others."
+  }
+}

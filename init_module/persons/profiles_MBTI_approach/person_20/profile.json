@@ -1,0 +1,25 @@
+{
+  "id": 20,
+  "name": "Robert Brown",
+  "sex": "male",
+  "birthday": "17.11.1971",
+  "hobbies": [
+    "philatelic",
+    "drift"
+  ],
+  "unique_quality": "Unknown",
+  "education": {
+    "School": "Lincoln Park High School",
+    "University": "University of Chicago",
+    "Faculty": "Law"
+  },
+  "career": {
+    "Company": "Kirkland & Ellis",
+    "position": "partner"
+  },
+  "residence": "USA, Chicago, Michigan Avenue, 89",
+  "personal_traits": {
+    "MBTI": "ISTJ",
+    "description": "This individual appears to be a responsible and dependable person, valuing stability and consistency in their personal relationships. The strong and stable group of friends suggests a capacity for commitment and loyalty, while the emphasis on partnership in romantic relationships indicates a desire for mutual support and cooperation. Their purposefulness and attentiveness also suggest a ability to engage deeply with others, making them a supportive and empathetic partner or friend. However, this also implies a potential tendency towards over-involvement and emotional entanglement in relationships. Overall, their personality is characterized by a strong sense of duty, loyalty, and commitment, which can serve as a foundation for healthy and fulfilling relationships. Their emotional maturity and stability will enable them to navigate the inevitable ups and downs that come with any relationship. With this individual, it's likely that they value longevity over intensity in romantic relationships."
+  }
+}

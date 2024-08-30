@@ -1,0 +1,17 @@
+{
+  "name": "Thomas Ibarra",
+  "age": 24,
+  "sex": "Male",
+  "occupation": "Biochemistry",
+  "Year": "Senior",
+  "GPA": 2.83,
+  "Hobbies": [
+    "table tennis",
+    "photography"
+  ],
+  "Country": "USA",
+  "residence": "Massachusetts",
+  "unique_quality": "Wildlife conservationist",
+  "id": 0,
+  "birthday": "2000.2.11"
+}

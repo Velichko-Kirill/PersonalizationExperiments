@@ -1,0 +1,24 @@
+{
+  "name": "Taylor Perez",
+  "age": 24,
+  "sex": "Male",
+  "occupation": "Philosophy",
+  "Year": "Senior",
+  "GPA": 3.17,
+  "hobbies": [
+    "animation",
+    "snowboarding"
+  ],
+  "Country": "USA",
+  "residence": "Arkansas",
+  "unique_quality": "Silversmith",
+  "id": 16,
+  "birthday": "2000.1.9",
+  "personal_traits": {
+    "agreeableness": 39.0,
+    "openness": 89.0,
+    "conscientiousness": 1.0,
+    "extraversion": 22.0,
+    "neuroticism": 61.0
+  }
+}

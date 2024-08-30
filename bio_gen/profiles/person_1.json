@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "name": "Roman Alexeev",
+  "birthday": "21.12.1991",
+  "sex": "male",
+  "residence": "Russia, Moscow, Taganskaya ul., 36",
+  "education": {
+    "School": "gymnasium \u2116 534",
+    "University": "Lomonosov Moscow State University",
+    "Faculty": "Journalism"
+  },
+  "family": {
+    "wife": {
+      "Anna Drozdova": {
+        "description": "ex-classmate"
+      }
+    },
+    "children": {
+      "Maxim": {
+        "age": 4
+      }
+    }
+  },
+  "occupation": "journalist",
+  "career": {
+    "Company": "'Vedomosti' journal",
+    "position": "associate editor"
+  },
+
+  "personal_traits": {
+    "MBTI_type": "ESTP"
+  }
+}

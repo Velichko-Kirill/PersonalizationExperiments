@@ -1,0 +1,39 @@
+API для погоды: 
+
+{
+  "timestamp": datetime,
+  "humidity": int,
+  "location": {
+    "city": char,
+    "coordinates": {
+      "lat": double,
+      "lon": double
+    }
+  },
+  "temperature": {
+    "current": int,
+    "high": int,
+    "low": int
+  },
+  "pressure": int,
+  "wind": {
+    "speed": int,
+    "direction": char
+  },
+  "condition": text
+}
+
+
+API для новостей 
+
+{
+    "id": int,
+    "title": char,
+    "published": datetime,
+    "summary": text
+    "summary_detail": text
+  },
+
+
+
+

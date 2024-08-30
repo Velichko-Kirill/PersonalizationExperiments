@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "name": "Jamie Taylor",
+  "sex": "male",
+  "birthday": "2005.4.6",
+  "hobbies": [
+    "poetry",
+    "calligraphy"
+  ],
+  "unique_quality": "Nature guide",
+  "education": {
+    "School": "Unknown",
+    "University": "University of San-Francisco",
+    "Faculty": "Human Rights Education"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "California, San-Francisco",
+  "personal_traits": {
+    "MBTI": "INFJ",
+    "description": "This individual appears to be deeply idealistic and sentimental, valuing long-term connections over superficial ones. Their strong sense of restraint suggests a need for emotional control, possibly stemming from past experiences where vulnerability led to hurt or rejection. Dreaminess may indicate a tendency towards escapism, as they often find solace in fantastical or utopian ideas rather than confronting reality. Sensitivity is a key trait, hinting at an empathetic nature and a capacity for deep emotional connections. Devotion is also prominent, suggesting a strong commitment to their relationships and values. The presence of a small, tight-knit group of close friends implies a preference for intimacy over social breadth, further underscoring their idealistic and emotionally intense personality. Their focus on long-term romantic relationships likely stems from a desire for security and stability, which may be rooted in an unconscious need to compensate for feelings of insecurity or abandonment. Overall, this individual's psychology is characterized by a delicate balance between emotional depth and defensive coping mechanisms, with a strong emphasis on nurturing meaningful connections."
+  }
+}

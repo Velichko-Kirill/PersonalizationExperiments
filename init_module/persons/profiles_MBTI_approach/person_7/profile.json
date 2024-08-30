@@ -1,0 +1,25 @@
+{
+  "id": 7,
+  "name": "Jessica Blankenship",
+  "sex": "female",
+  "birthday": "2001.5.13",
+  "hobbies": [
+    "skateboarding",
+    "woodworking"
+  ],
+  "unique_quality": "Creative writer",
+  "education": {
+    "School": "Unknown",
+    "University": "Ontario high school",
+    "Faculty": "Data analytics"
+  },
+  "career": {
+    "Company": "Unknown",
+    "position": "Unknown"
+  },
+  "residence": "Ontario",
+  "personal_traits": {
+    "MBTI": "ESTJ",
+    "description": "This individual presents a contradictory yet cohesive psychological profile. On one hand, their reliance on strong and stable friendships suggests a deep-seated need for security and predictability in interpersonal relationships. The presence of qualities such as reliability and determination further implies an ability to maintain consistency and commitment. However, the emphasis on calm and stability within romantic relationships hints at a possible tendency towards emotional repression or a desire for control. Furthermore, the absence of any traits indicating impulsivity or risk-taking suggests that this person may prioritize caution over boldness. Nonetheless, their stable friendships and dependable nature suggest an underlying capacity for trustworthiness and loyalty. This synthesis implies a well-structured personality framework, possibly with an introverted leaning due to the prioritization of internal reliability and predictability. Overall, this individual's psyche appears to be guided by a practical and responsible approach, tempered by a deep appreciation for stability and control. Their behavior is likely characterized by prudent decision-making and deliberate action, often in pursuit of clear goals and objectives."
+  }
+}

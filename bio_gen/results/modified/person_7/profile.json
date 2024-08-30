@@ -1,0 +1,24 @@
+{
+  "name": "Jessica Blankenship",
+  "age": 23,
+  "sex": "Female",
+  "occupation": "Music",
+  "Year": "Freshman",
+  "GPA": 2.18,
+  "hobbies": [
+    "skateboarding",
+    "woodworking"
+  ],
+  "Country": "Canada",
+  "residence": "Ontario",
+  "unique_quality": "Creative writer",
+  "id": 7,
+  "birthday": "2001.5.13",
+  "personal_traits": {
+    "agreeableness": 85.0,
+    "openness": 95.0,
+    "conscientiousness": 15.0,
+    "extraversion": 50.0,
+    "neuroticism": 15.0
+  }
+}

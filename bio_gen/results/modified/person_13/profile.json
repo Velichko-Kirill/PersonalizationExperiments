@@ -1,0 +1,24 @@
+{
+  "name": "Craig Gray",
+  "age": 18,
+  "sex": "Male",
+  "occupation": "Graphic Communication",
+  "Year": "Senior",
+  "GPA": 2.48,
+  "hobbies": [
+    "fitness training",
+    "fashion design"
+  ],
+  "Country": "USA",
+  "residence": "California",
+  "unique_quality": "3D printing innovator",
+  "id": 13,
+  "birthday": "2006.1.9",
+  "personal_traits": {
+    "agreeableness": 64.0,
+    "openness": 44.0,
+    "conscientiousness": 33.0,
+    "extraversion": 8.0,
+    "neuroticism": 88.0
+  }
+}
