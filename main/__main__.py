@@ -1,4 +1,5 @@
 import asyncio
+import contextlib
 import json
 import logging
 import os
@@ -7,7 +8,7 @@ from pathlib import Path
 from pprint import pformat, pprint
 
 import asyncclick as click
-from aioconsole import AsynchronousCli
+from aioconsole import ainput, AsynchronousCli
 from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
 
@@ -19,32 +20,70 @@ logger.setLevel(logging.DEBUG)
 
 
 async def interact_simulacra(simulacra: Simulacra):
-    while True:
-        inputs = input("observation:")
-        reaction = await simulacra.react(inputs)
-        print(f"reaction: {reaction}")
+    print("Interactive mode: Type 'exit' to quit.")
+    print("You can enter 'observe <your_observation>' to process a new observation.")
+    print("You can enter 'news <your_news_event>' to process a new news event.")
 
-        invoked_memories = await simulacra.get_relevant_memories(query=inputs)
-        print(f"\nWhat I remember: {pformat(invoked_memories)}")
+    while True:
+        user_input = await ainput(">>> ")
+
+        if user_input.lower() == "exit":
+            print("Exiting interactive mode.")
+            break
+
+        elif user_input.startswith("observe "):
+            observation = user_input[len("observe "):]
+            reaction = await simulacra.react(observation)
+            personalized_observation = await simulacra.personalize_observation(observation)
+            short_personalized_observation = await simulacra.summarize_obs(personalized_observation)
+
+            print(f"Reaction: {reaction}")
+            print(f"Personalized Observation: {personalized_observation}")
+            print(f"Summary: {short_personalized_observation}")
+
+            # Optionally, you could save this to the memory
+            await simulacra.add_memory(personalized_observation)
+
+        elif user_input.startswith("news "):
+            news_event = user_input[len("news "):]
+            assessment = await simulacra.emo_agent_assessment(news_event)
+            personalized_event = await simulacra.personalize_observation(news_event)
+            personalized_summary = await simulacra.summarize_obs(personalized_event)
+
+            print(f"Assessment: {assessment}")
+            print(f"Personalized Event: {personalized_event}")
+            print(f"Summary: {personalized_summary}")
+
+            # Optionally, you could save this to the memory
+            await simulacra.add_memory(personalized_event)
+
+        else:
+            reaction = await simulacra.react(user_input)
+            print(reaction)
+
+            personalized_event = await simulacra.personalize_observation(user_input)
+            await simulacra.add_memory(personalized_event)
+            print(f"Added a memory: \n{personalized_event}")
 
 
 @click.command()
-@click.option("--personal-path", "-p", default="init_module/persons/profiles_MBTI_approach/person_1",
-              help="Path to directory containing profile.json")
+@click.option("--person-id", "-id", default="0",
+              help="Simulacra's id, used for getting path to directory containing profile.json")
 @click.option("--observations-path", "-o", default="main/observations.txt",
               help="Path to file containing current observations, received from environment or other agents.")
 @click.option("--news-path", "-n", default="docs/news/news_moscow.json",
               help="Path to json file containing actual local news")
 @click.option("--core-model", "-llm", default="llama3.1",
               help="Core LLM name (id)")
-@click.option("--interactive", "-i", default=False,
+@click.option("--interactive", "-i", is_flag=True, default=False,
               help="interactive mode after simulacra's initialization")
-async def main(personal_path: Path,
+async def main(person_id: Path,
                observations_path,
                news_path: Path,
                core_model: ChatOllama,
                interactive: bool):
     load_dotenv()
+
     if core_model in ["llama3", "llama3.1"]:
 
         llm = ChatOllama(model=core_model)
@@ -52,17 +91,25 @@ async def main(personal_path: Path,
     else:
         raise NotImplementedError(f"Core LLM '{core_model}' is not supported. Use one of Ollama's supported models:\n"
                                   f"https://ollama.com/library")
+    personal_path = Path(os.getcwd(), "init_module", "persons",
+                         "profiles_MBTI_approach", f"person_{person_id}")
 
-    # personal_path = Path(os.getcwd(), "init_module", "profiles_MBTI_approach", "person_0")
     simulacra = Simulacra(personal_path, core_llm=llm)
 
     logger.info(f"Simulacra '{simulacra.name}' initialized")
+
+    if interactive is True:
+        # with contextlib.suppress(LangSmithRateLimitError):
+        await interact_simulacra(simulacra=simulacra)
+
+        exit(0)
+
     logger.info(f"Getting observations from {observations_path}...")
 
     with open(observations_path, "r") as f:
         observations = f.read().split("###")
 
-    test_data, test_news_processing = [], []
+    observations_reactions, test_news_processing = [], []
 
     with open(news_path, "r") as fp:
         news = json.loads(fp.read())
@@ -72,7 +119,7 @@ async def main(personal_path: Path,
     outs_path = Path(personal_path, "outputs")
     os.makedirs(outs_path, exist_ok=True)
 
-    for event_frame in news:
+    for event_frame in news[:5]:
         event = event_frame["mappings"]["summary_detail"]
         assessment = await simulacra.emo_agent_assessment(event=event)
         personalized_event = await simulacra.personalize_observation(event)
@@ -92,7 +139,7 @@ async def main(personal_path: Path,
 
         new_memories.append(personalized_event)
 
-    with open(Path(outs_path, "news_processing.json"), "w+") as outfile:
+    with open(Path(outs_path, "news_processing.json"), "w") as outfile:
         json.dump(test_news_processing, outfile)
 
     for observation in observations:
@@ -111,33 +158,27 @@ async def main(personal_path: Path,
             "summary": short_personalized_observation
         }
 
-        with open(Path(outs_path, "reactions.json"), "w+") as outfile:
-            json.dump(test_data, outfile)
-
         logger.info(pformat(data))
-        test_data.append(data)
+        observations_reactions.append(data)
 
-    # query_memories = {}
-    # for quest in _QUESTS:
-    #     memories = await simulacra.get_relevant_memories(query=quest)
-    #     query_memories.update({quest: memories})
-
-    # logger.info(pformat(query_memories))
-    # await eval_rag(simulacra=simulacra)
+    with open(Path(outs_path, "reactions.json"), "w") as outfile:
+        json.dump(observations_reactions, outfile)
 
     logger.info("Adding new memories...")
 
     for memory in new_memories:
         await simulacra.add_memory(memory)
 
+    # with open(Path(personal_path, "memories.json"), "w") as outfile:
+    #     json.dump(new_memories, outfile)
+
     if interactive is False:
         logger.info("Done")
         exit(0)
 
     else:
-        cli = AsynchronousCli()
-        loop = asyncio.get_event_loop()
-        loop.run_until_complete(cli.interact())
+        await interact_simulacra(simulacra)
+        return
 
 
 if __name__ == '__main__':
